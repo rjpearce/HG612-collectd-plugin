@@ -1,0 +1,107 @@
+xdslcmd: ADSL driver and PHY status
+Status: Showtime
+Retrain Reason:	0
+Max:	Upstream rate = 8567 Kbps, Downstream rate = 46488 Kbps
+Path:	0, Upstream rate = 8308 Kbps, Downstream rate = 40000 Kbps
+
+Link Power State:	L0
+Mode:			VDSL2 Annex B
+VDSL2 Profile:		Profile 17a
+TPS-TC:			PTM Mode
+Trellis:		U:ON /D:ON
+Line Status:		No Defect
+Training Status:	Showtime
+		Down		Up
+SNR (dB):	 5.7		 6.0
+Attn(dB):	 0.0		 0.0
+Pwr(dBm):	 10.8		 5.5
+			VDSL2 framing
+			Path 0
+B:		54		238
+M:		1		1
+T:		64		33
+R:		14		16
+S:		0.0437		0.9148
+L:		12623		2230
+D:		740		1
+I:		69		255
+N:		69		255
+			Counters
+			Path 0
+OHF:		253600832		948049
+OHFErr:		14779		580
+RS:		1446719254		4244073
+RSCorr:		1265727805		4933
+RSUnCorr:	662872		0
+
+			Path 0
+HEC:		181562		0
+OCD:		0		0
+LCD:		0		0
+Total Cells:	2451852797		0
+Data Cells:	107684277		0
+Drop Cells:	0
+Bit Errors:	0		0
+
+ES:		1871		504
+SES:		10		3
+UAS:		21		21
+AS:		534404
+
+			Path 0
+INP:		3.00		0.00
+PER:		2.09		15.09
+delay:		8.00		0.00
+OR:		91.47		20.14
+
+Bitswap:	214476		1810
+
+Total time = 1 days 4 hours 27 min 6 sec
+FEC:		1265727805		4933
+CRC:		14779		580
+ES:		1871		504
+SES:		10		3
+UAS:		21		21
+LOS:		0		0
+LOF:		0		0
+Latest 15 minutes time = 12 min 6 sec
+FEC:		38648164		7
+CRC:		3		3
+ES:		1		2
+SES:		0		0
+UAS:		0		0
+LOS:		0		0
+LOF:		0		0
+Previous 15 minutes time = 15 min 0 sec
+FEC:		51257651		2
+CRC:		10		0
+ES:		1		0
+SES:		0		0
+UAS:		0		0
+LOS:		0		0
+LOF:		0		0
+Latest 1 day time = 4 hours 27 min 6 sec
+FEC:		639531739		94
+CRC:		1018		21
+ES:		107		19
+SES:		1		0
+UAS:		0		0
+LOS:		0		0
+LOF:		0		0
+Previous 1 day time = 24 hours 0 sec
+FEC:		410984966		543
+CRC:		2957		85
+ES:		380		72
+SES:		2		0
+UAS:		0		0
+LOS:		0		0
+LOF:		0		0
+Since Link time = 6 days 4 hours 26 min 43 sec
+FEC:		1265727805		4933
+CRC:		14779		580
+ES:		1871		504
+SES:		10		3
+UAS:		0		0
+LOS:		0		0
+LOF:		0		0
+

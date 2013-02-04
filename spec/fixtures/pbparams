@@ -1,0 +1,21 @@
+xdslcmd: ADSL driver and PHY status
+Status: Showtime
+Retrain Reason:	0
+Max:	Upstream rate = 8556 Kbps, Downstream rate = 46488 Kbps
+Path:	0, Upstream rate = 8308 Kbps, Downstream rate = 40000 Kbps
+
+Discovery Phase (Initial) Band Plan
+US: (0,95) (880,1195) (1984,2771) 
+DS: (32,859) (1216,1959) (2792,4083) 
+Medley Phase (Final) Band Plan
+US: (0,95) (880,1195) (1984,2771) 
+DS: (32,859) (1216,1959) 
+       VDSL Port Details       Upstream        Downstream
+Attainable Net Data Rate:       8556 kbps         46488 kbps
+Actual Aggregate Tx Power:        5.5 dBm          10.8 dBm
+============================================================================
+  VDSL Band Status        U0      U1      U2      U3      D1      D2      D3
+  Line Attenuation(dB):	 3.4	 37.5	 57.4	  N/A	 18.4	 47.6	 69.7	
+Signal Attenuation(dB):	 3.4	 37.4	 55.7	  N/A	 18.4	 47.6	  N/A	
+        SNR Margin(dB):	 6.3	 6.0	 6.0	  N/A	 5.7	 5.8	  N/A	
+         TX Power(dBm):	-3.6	-4.8	 4.4	  N/A	 8.3	 7.3	  N/A	
